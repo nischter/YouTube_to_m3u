@@ -74,6 +74,20 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657930901/ei/N
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://www.youtube.com/c/canaldeportv" tvg-id="", DEPORTV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657930901/ei/NbDRYo2KH46vlu8PkPKtqAo/ip/40.69.167.82/id/8OprMI-MCOM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhgdtmAAY67CKr0o5muP_Lt6WtWE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCjCqLwamMO90P53UPi-NqkO8QpQWAg83w7winrRFkJYCIEiG6A8ndp5N-qoMrKEm2QU4d1GCGVpHDTspSfqvwLEI/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.nunchee.com/out/5ebd702ecf086100101a7836/original/backdrop/25.jpeg" group-title="CANALES",TYC SPORTS
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" status="online" user-agent="iPhone",NET TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" status="online" user-agent="iPhone",Canal MUSICA (720p
+#EXTVLCOPT:http-user-agent=iPhone
+http://g4.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" status="online" user-agent="iPhone",Canal 22
+#EXTVLCOPT:http-user-agent=iPhone
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 7 Mendoza AR
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657930902/ei/NbDRYvjDN_jRlu8Pnsmo8Ac/ip/40.69.167.82/id/wFVRGjzEqOc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khvo3e4QKf3p2ghNmia-AwJb7oaM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJQwR4saKRbYjU2Msu7N3xPOxD3s45zOVixakLnjHyvpAiAW006LQXAHVdaxdydMUPaddjg75HVgXAuJKgQZ3PuevQ%3D%3D/file/index.m3u8
