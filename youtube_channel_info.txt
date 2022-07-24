@@ -143,3 +143,38 @@ https://www.youtube.com/c/Radio10am/live
 
 Canal 30 San Juan - RÁDIO | ARGENTINA | https://yt3.ggpht.com/6-ovkJ4kVGq-byBEgD8s-7bXIX-GlS7VS86wS72wVriBOI7w8T6GsIAahiDBrO88o5Ov-q7L=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCuJvDPQIaUhvdHiH275WjNA/live
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" status="online" user-agent="iPhone",América TV 
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1 xui-id="508" tvg-id="C5N.ar" tvg-name="AR | C5N *HD" tvg-logo="http://xdgo.live:8080/images/e76fc22c87a1dc918473e16c19753fc7.jpg" group-title="ARGENTINA", C5N 
+#EXTVLCOPT:http-user-agent=iPhone
+https://nisch.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
+
+#EXTINF:-1 xui-id="28975" tvg-id="LaNacionPlusHD.ar" tvg-name="AR | LN+ *HD" tvg-logo="http://xdgo.live:8080/images/cc3ea79e88e455bbc4dbb7ed82163a61.png" group-title="ARGENTINA",LN+ 
+https://nisch.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/LaNacionMas/live
+
+#EXTINF:-1 xui-id="524" tvg-id="CronicaTV.ar" tvg-name="AR | CRONICA *HD" tvg-logo="http://xdgo.live:8080/images/dbe30838533dfb8bf55dab1bcc3f0951.png" group-title="ARGENTINA",CRONICA TV
+https://nisch.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv/live
+
+#EXTINF:-1 tvg-id="A24.ar" status="online" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png",A24 
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" status="online" user-agent="iPhone",La TV Pública 
+#EXTVLCOPT:http-user-agent=iPhone
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
+#EXTINF:-1 tvg-id="NETTV.ar" status="online" user-agent="iPhone",NET TV 
+#EXTVLCOPT:http-user-agent=iPhone
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://es.wikipedia.org/wiki/Canal_9_(Buenos_Aires)#/media/Archivo:Canal_9_2015.png" group-title="CANALES", canal 9
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Temporales+", Telefe HD (ARG)
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?playlist.m3u8
+
+#EXTINF:-1 xui-id="28951" tvg-id="ElTrece.ar" tvg-name="AR | EL TRECE *HD" tvg-logo="http://xdgo.live:8080/images/4146363a8980f352d08a5150f9b0e295.png" group-title="ARGENTINA", EL TRECE 
+http://181.30.129.66:80/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
