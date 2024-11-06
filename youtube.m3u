@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRVONiJPqnYI_ETrMgVqqBLCerU8RXnRRp-xF79LA=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Todo Noticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730862959/ei/D4sqZ_SlLpuBkucP8Y7LmQY/ip/20.55.118.251/id/cb12KmMMDJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApASUwWHr9xEH0F4fbTfqeVB5CCWW2GQV5EhVS8muoo1sYpW3uwNX8eyHqwFo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIhAOH_scjppxNEx8ewMnLBcmw3wU0rll_D7qP3QRx_QC8bAh8JJuHOZwm9IzeFlklTmPbkL2lfmO6jSiHyiAhOE3s4/file/index.m3u8
+https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYU51c8SbrkWZeNBRMFeCnGv0YXPpXuEGBNq-X5g=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Canal Encuentro
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
