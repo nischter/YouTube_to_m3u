@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", C5N  25.2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734082499/ei/Y6tbZ_CSLczHsfIPjOCOiQM/ip/52.157.4.87/id/N1Tfrn7hMWU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUGefXHG2AekCVm7r_dujv0mja11pABOlc2sbxZtA0j9XIeoCyjQmD5uCLyQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSuoDK6e8b_i-qZNCQg2xbme32F78EEyHdViRaqMxIT0CICtHXByzzksZDWDPn9NtNBMu6Oa3kIczM6rEnZBTV3DS/file/index.m3u8
+https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj" tvg-id="", LN+  25.3
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
