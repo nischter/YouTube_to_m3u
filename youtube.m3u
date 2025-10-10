@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Crónica TV
-https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760109658/ei/-s_oaJfGHK2ilu8P0fqMkQg/ip/132.196.82.129/id/avly0uwZzOE.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSVxKR2BkoxzQzrTIY1hmFc8AgyW0o2vCucRmMBn0j4-noUZo6amKW9FXLpivWj0HFuavU6gVLUA/spc/hcYD5YQSHAGheY45YSboBel2h3nc8h4ZGip9vpokUWQHkClbjbVPAq0mPzk6Ra5HlNY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVF2f61vU2dHfVU5YW9lDBJLz1YSy485iaMuR1c6tmC8CIQD-Dvwu4jxf_AkC2MbxiEfqidKbipZdXPc-Ka4BB9p7XQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", C5N  25.2
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
