@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTQ0CHvwUkhFXB2UyejrJl0KVeBjhtrORfIweTQXg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TELEFE SALTA
-https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769052531/ei/E0VxaZ2xJ8Svlu8P6aiQoQE/ip/52.154.130.213/id/R50CmfdYKto.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rwZr4xd1_UiR4COeUuWRRIqlHn0tWvNxfSE6l0T0Y7dJc1EKVsD3buQ7psDBDAQXV9TO8rPCIi/spc/q5xjPAdepbvrhRSI79o9EZZEGEKjGgmB4h97e1zM_mvV4Heft0ARbYnhH0ntDNQnRljKgQ/vprv/1/go/1/ns/ELhxHa65zI0kRh6a6fll6e0S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/EPqwNjmpU4zonQm5wp5/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAMDfb0uKqkMNRjYp25ZdLTOGNlA21Frr_8t-7kpgHjITAiACMWiuyaDQSDSVJpaJF2bKD22EJeJYoftYhON8CbiO6Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPWwTeM4qkKiI=s48-c-k-c0x00ffffff-no-rj" tvg-id="", IP Noticias AR
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
