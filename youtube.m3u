@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/gCklb7Bo3XDM4aS_a1-Ta91LsGZtkGlb1IMQwLri3ureUeABTKqXYr-LZGET-Or4J_U4TI_uRq4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Televisión Pública 2
-https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769076530/ei/0qJxabmmLNeolu8PveLSgQM/ip/172.208.153.209/id/UFiwUbXtb6k.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rCMqpYOi8Z5So4H-Ri_b-rsWQA8NajTT0xDbGKQLHXaTGlYTSx1fxy-X86KTiJgX0zZHx4TT6V/spc/q5xjPD7XPXC-BcEpFJm_6D4lStIW-4aLwJc__0g5xVcjWV28eRkNbAYHxOrz6PUxZRUd3Q/vprv/1/go/1/ns/SpHBSCb4CSIQIReYkMeH1WES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/_xvwpZyhv_EWp6sW/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgTl6E7B5v8MxIVK1pO4khQmOXCpYR4wTJg3tuon6mjnICIQCg1uCi7v6KPdkyxha36rWLeZP1fZxkOHQlRozim-P1Ig%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQylk1Pg1iz872BeKPel5iEkdEGbXFV4-_c2x0n=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Canal 12 Televisión Pública Regional
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
