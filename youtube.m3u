@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_2vc9G9uQ63H-T7ju-WzsmqbBPyXTw4l-irVbaA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TELEFE CORDOBA
-https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773026716/ei/POmtaZLsMrOWlu8PoqrzgQw/ip/135.232.224.160/id/DCLSXZ7JOL0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774350/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-w3FdIFp6BMiRR6nQXnsXEmIphOk2zoeYab6MdTZJb5iINaA7JFrmnmuVsUI3bx80iYCV-TKwdM/spc/6dlaFDLezUfHFBiGXDqM01qvUSNFhhmSwzRbmdMzlgoiopwn_hC_4TGkwZVJF8fz0nrmYA/vprv/1/go/1/ns/9LDqbiGZHpXhVJyZQSqcs5kT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/EoPEagJIrB789lN1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAOO10nAtUEBA62QSCc07TVKKxpfTnZd3Lw0nUhb1MhYWAiEAzzQPlbPUlEjNa8V8_lxcdIvcSZA2zeGJI2n_1txRMLY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRJLMbep2bJrLLuIAyi6-TXc3qnQCUXLbztYkoo=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TELEFE ROSÁRIO
 https://raw.githubusercontent.com/nischter/YouTube_to_m3u/main/assets/youtube.m3u
